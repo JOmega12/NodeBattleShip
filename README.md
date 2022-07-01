@@ -24,4 +24,5 @@ Part 2
 7. The game works as before, except now, all ships must be destroyed to win
 
 Part 3
+
 Instead of just printing "hit" or "miss" when you take a turn, have a GUI-based grid appear in the terminal. Use "O" for your misses and use "X" for your hits. After every turn, the grid will reprint with the proper data.
