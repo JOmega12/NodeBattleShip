@@ -11,10 +11,6 @@ let ships = []
 let guess = []
 let totalShips = 2;
 
-//there is a bug that makes the same coordinate. Fix that.
-//current thought is to either duplication the function below
-//and push the tto function into the ships array
-//or create a new function that iterates through these ships like in part 2 and create a randomized ship iteration for less than two ships
 function placeShips() {
 
    let possibleLet = ['A', 'B', 'C']
